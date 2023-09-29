@@ -1,0 +1,10 @@
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\obj\Debug\GavinMajorProject1.csproj.AssemblyReference.cache
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\obj\Debug\GavinMajorProject1.VehicleLoanCalculator.resources
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\obj\Debug\GavinMajorProject1.Properties.Resources.resources
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\obj\Debug\GavinMajorProject1.csproj.GenerateResource.cache
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\obj\Debug\GavinMajorProject1.csproj.CoreCompileInputs.cache
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\bin\Debug\GavinMajorProject1.exe.config
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\bin\Debug\GavinMajorProject1.exe
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\bin\Debug\GavinMajorProject1.pdb
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\obj\Debug\GavinMajorProject1.exe
+C:\Users\Gavin\source\repos\GavinMajorProject1\GavinMajorProject1\obj\Debug\GavinMajorProject1.pdb
